@@ -1,0 +1,23 @@
+.content > p, .content > h5, .id > p, .id > h5 {
+  display: inline;
+}
+
+.content > p, .id > p {
+  text-align: center;
+}
+
+.tweet{
+  margin-bottom: 0 !important;
+}
+
+button{
+  margin: 8px;
+}
+
+.content > h5, .id > h5 {
+  display: inline;
+}
+
+.content, .id{
+  margin-bottom: 10px;
+}
